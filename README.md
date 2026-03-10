@@ -76,9 +76,9 @@ Tech: OpenCV • MediaPipe • Python
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=reydar-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=reydar05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reydar-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reydar05&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 </p>>
 
