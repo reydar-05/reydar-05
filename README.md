@@ -65,13 +65,6 @@ Tech: FastAPI • Pandas • Mlxtend • Data Mining
 
 ---
 
-### 🧠 Automated Melanoma Screening
-Deep learning system for **early skin cancer detection** using multimodal medical image analysis.
-
-Tech: Python • Computer Vision • Deep Learning
-
----
-
 ### 👁 Eye Controlled Mouse
 A real-time **computer vision based cursor control system** using facial landmark detection and blink recognition.
 
@@ -83,9 +76,9 @@ Tech: OpenCV • MediaPipe • Python
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?reydar-05&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reydar-05&layout=compact&theme=tokyonight">
 
 </p>
 
@@ -94,7 +87,7 @@ Tech: OpenCV • MediaPipe • Python
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reydar-05&theme=tokyonight">
 </p>
 
 ---
@@ -102,6 +95,7 @@ Tech: OpenCV • MediaPipe • Python
 # 📫 Connect With Me
 
 GitHub: https://github.com/reydar-05
+
 LinkedIn: https://www.linkedin.com/in/renu-gopu/
 
 ---
