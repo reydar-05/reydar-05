@@ -90,8 +90,8 @@ LinkedIn: https://www.linkedin.com/in/renu-gopu/
 
 ⭐ *Always curious about building intelligent systems and exploring new technologies.*
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Devoured
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/reydar-05/reydar-05/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/reydar-05/reydar-05/output/github-snake.gif">
 </p>
