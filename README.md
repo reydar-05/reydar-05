@@ -93,5 +93,5 @@ LinkedIn: https://www.linkedin.com/in/renu-gopu/
 ## 🐍 Watch My Contributions Get Devoured
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/reydar-05/reydar-05/output/github-snake.gif">
+<img src="https://raw.githubusercontent.com/reydar-05/reydar-05/output/github-snake-dark.svg">
 </p>
