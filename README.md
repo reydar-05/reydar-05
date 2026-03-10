@@ -30,15 +30,7 @@
 ### Frameworks & Libraries
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,opencv" />
-</p>
-
-### Data Science & Machine Learning
-
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Mlxtend (Apriori Algorithm)  
-- Data Mining & Association Rule Mining  
+</p> 
 
 ### Web Technologies
 <p>
@@ -55,6 +47,13 @@
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge"/>
 </p>
 
+### Data Science & Machine Learning
+
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Mlxtend (Apriori Algorithm)  
+- Data Mining & Association Rule Mining 
 ---
 
 # 🚀 Featured Projects
