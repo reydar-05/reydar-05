@@ -80,7 +80,7 @@ Tech: OpenCV • MediaPipe • Python
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reydar05&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-</p>>
+</p>
 
 ---
 
