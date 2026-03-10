@@ -49,8 +49,12 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-Android Studio • Google Colab
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48"/>
+</p>
 
 ---
 
