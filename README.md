@@ -93,5 +93,5 @@ LinkedIn: https://www.linkedin.com/in/renu-gopu/
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/reydar-05/reydar-05/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/reydar-05/reydar-05/output/github-contribution-grid-snake.svg"/>
 </p>
