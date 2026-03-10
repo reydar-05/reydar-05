@@ -72,16 +72,6 @@ Tech: OpenCV • MediaPipe • Python
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=reydar-05&show_icons=true&theme=tokyonight" />
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -99,3 +89,9 @@ LinkedIn: https://www.linkedin.com/in/renu-gopu/
 ---
 
 ⭐ *Always curious about building intelligent systems and exploring new technologies.*
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/reydar-05/reydar-05/output/github-contribution-grid-snake.svg" />
+</p>
