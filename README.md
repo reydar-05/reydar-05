@@ -72,13 +72,13 @@ Tech: OpenCV • MediaPipe • Python
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=reydar-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=reydar-05&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reydar-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reydar-05&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
