@@ -46,14 +46,13 @@
 </p>
 
 ### Tools & IDEs
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
