@@ -9,10 +9,9 @@
 ## 💫 About Me
 
 🎓 B.Tech Computer Science Student  
-💻 Interested in **Machine Learning, Data Mining, Backend Systems, and Computer Vision**
+💻 Interested in **Machine Learning, AI Agents, Backend Systems, and Computer Vision**
 
 🧠 Currently working on:
-- AlgoCompass AI – Personalized DSA Learning Roadmap Generator
 - Community Detection in Social Networks (Graph Algorithms)
 - Computer Vision Interaction Systems
 
